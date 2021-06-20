@@ -1,0 +1,19 @@
+# IGNORE ALL
+*
+
+# NOT IGNORE THESE FILES
+!o
+!.gitignore
+!Makefile
+!bitset.c
+!bitset.h
+!eratosthenes.c
+!eratosthenes.h
+!error.c
+!error.h
+!ppm.c
+!ppm.h
+!primes.c
+!steg-decode.c
+!steg-decode.gdb
+!steg-encode.c
