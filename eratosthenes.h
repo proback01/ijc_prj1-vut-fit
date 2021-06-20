@@ -12,4 +12,4 @@
 
 void Eratosthenes(bitset_t pole);
 
-#endif ERATOSTHENES_H
+#endif // ERATOSTHENES_H
