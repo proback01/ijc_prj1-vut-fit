@@ -5,6 +5,7 @@
 !o
 !.gitignore
 !Makefile
+!README.md
 !bitset.c
 !bitset.h
 !eratosthenes.c
