@@ -5,6 +5,9 @@
  * Přeloženo: gcc 9.3.0
  */
 
+#ifndef PPM_H
+#define PPM_H
+
 #include <stdio.h>
 #include "bitset.h"
 #include "error.h"
@@ -19,3 +22,5 @@ struct ppm
 struct ppm *ppm_read(const char *filename);
 void ppm_write(const char *filename, struct ppm *ppmFile);
 void ppm_free(struct ppm *p);
+
+#endif // PPM_H

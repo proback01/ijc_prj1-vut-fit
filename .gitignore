@@ -15,5 +15,4 @@
 !ppm.h
 !primes.c
 !steg-decode.c
-!steg-decode.gdb
 !steg-encode.c
